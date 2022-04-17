@@ -1,0 +1,167 @@
+@media (max-width: 1200px){
+ .section-4-img-div{
+     display: none;
+ }
+ .collage1{
+     display: none;
+ }
+ .button-div{
+     display: none;
+ }
+ .section-2-text-div{
+    width: 300px;
+    height: 400px;
+    margin-top: 40px;
+}
+ .section-2-img-div{
+    width: 300px;
+    height: 350px;
+    justify-content: space-between;
+}
+.section-2-img-div>:nth-child(1){
+    width: 140px;
+    height: 150px;
+}
+.section-2-img-div>:nth-child(2){
+    width: 140px;
+    height: 150px;
+}
+.section-2-img-div>:nth-child(3){
+    width: 300px;
+    height: 150px;
+}
+.section-3-title-div{
+    margin-right: 0;
+}
+.section-3-title-div{
+    width: 500px;
+}
+.h1 {
+    font-size: 20px;
+    color: white;
+    margin-bottom: 20px;
+}
+.h4 {
+    color: white;
+    line-height: 20px;
+    
+}
+}
+@media (max-width: 950px){
+    .collage2{
+        display: none;
+    }
+    .input-main-div{
+        display: none;
+    }
+}
+@media (max-width: 700px){
+    .collage3{
+        display: none;
+    }
+    .header-div>p {
+        font-size: 8px;
+        margin-right: 10px;
+    }
+    .first-section-div {
+        max-width: 350px;
+        height: 150px;
+        margin-left: 80px;
+        margin-top: 50px;
+    }
+    .section-2-main-div{
+        margin-top: 110px;
+    }
+    .section-2-text-div>h2 {
+        font-size: 20px;
+    }
+    .section-2-text-div>p {
+        font-size: 10px;
+    }
+    .section-2-text-div {
+        width: 200px;
+    }
+    .section-3-title-div {
+        margin-top: 50px;
+    }
+    .section-4-text-div>h2 {
+        font-size: 20px;
+    }
+    .section-5-header-div {
+        width: 300px;
+        margin: 50px 20px;
+    }
+    .section-5-secondary-text-div {
+        margin-left: 75px;
+    }
+    .footer-text-div {
+        display: none;
+    }
+    .section-3-title-div>h2 {
+        font-size: 20px;
+        color: white;
+    }
+}
+@media (max-width: 520px){
+    .first-section-div {
+        max-width: 350px;
+        height: 100px;
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+    .h4 {
+        font-size: 12px;
+        line-height: 13px;
+    }
+    .section-2-img-div{
+        display: none;
+        width: 300px;
+        height: 250px;
+        justify-content: space-between;
+    }
+    .section-2-img-div>:nth-child(1){
+        display: none;
+        width: 100px;
+        height: 100px;
+    }
+    .section-2-img-div>:nth-child(2){
+        display: none;
+        width: 100px;
+        height: 100px;
+    }
+    .section-2-img-div>:nth-child(3){
+        width: 200px;
+        height: 150px;
+    }
+    .section-4-text-div {
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    .first-section-div {
+        max-width: 250px;
+        height: 100px;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    .section-3-title-div {
+        width: 300px;
+    }
+    .section-5-secondary-text-div {
+        width: 150px;
+        margin-left: 120px;
+    }
+    .section-5-secondary-text-div>p {
+        font-size: 10px;
+    }
+    .Zetta>p {
+        font-size: 10px;
+    }
+    .section-6-secondary-div>img {
+        width: 270px;
+    }
+    .Zetta-Hotels-a{
+        display: none;
+    }
+
+}
+    
